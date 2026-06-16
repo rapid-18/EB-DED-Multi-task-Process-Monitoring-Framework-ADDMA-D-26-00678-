@@ -6,7 +6,6 @@ Additive Manufacturing, Under Review, (ADDMA-D-26-00678)
 ## Overview
 We release the source code of:
 - the proposed deep learning model **TSF-DPMnet and MT-TSF-DPMnet**,
-- data preprocessing and data augmentation procedures used in the paper.
 
 Due to **ongoing, unpublished research** and **intellectual property (IP) considerations**, the full raw dataset and complete annotations used in the paper **cannot be publicly released at this time**.
 
