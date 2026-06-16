@@ -8,8 +8,6 @@ from ..utils import UpConvBlock, Upsample, PixelShuffleUpconv
 from mmcv.cnn import ConvModule, build_activation_layer, build_norm_layer
 from ..backbones.unet import BasicConvBlock
 from .decode_head import BaseDecodeHead
-from .aspp_head import*
-from .sep_aspp_head import*
 from ..utils.Segment_TSF import*
 from ..utils.Temporal_agg import*
 class Unet_decoder(nn.Module):
