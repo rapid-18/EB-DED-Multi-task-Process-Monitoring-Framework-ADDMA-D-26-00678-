@@ -24,4 +24,3 @@ This project is developed on top of **[OpenMMLab] MMSegmentation**, and follows 
 - MMSegmentation: https://github.com/open-mmlab/mmsegmentation
 - OpenMMLab: https://openmmlab.com/
 - Other requiernments are shown in requirements.txt
-**Note:** This repository contains our custom model components and the corresponding preprocessing/data augmentation pipeline implemented within the MMSegmentation framework.
